@@ -1,6 +1,3 @@
-<!-- Deja de mirar el código cotilla JAJAJAJAJ -->
-<!-- Mira mi GitHub mejor: https://github.com/MateAGYT -->
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -13,13 +10,16 @@
         html, body {
             height: 100%;
             margin: 0;
-        }a
+        }
         body {
             display: flex;
             flex-direction: column;
-            font-size: .9em;
-            font-family: 'Segoe UI', Verdana, sans-serif;
+            font-size: .85em; 
+            /* CAMBIO AQUÍ: Ahora Montserrat es la principal */
+            font-family: 'Montserrat', sans-serif;
             background: #EEEEEE;
+            /* Aplicamos el tamaño general al 90% */
+            zoom: 0.9;
         }
         #main-wrapper {
             flex: 1;
@@ -37,6 +37,7 @@
             font-size: 2em;
             margin: 0;
             color: #FFF;
+            font-weight: 700;
         }
         #header img {
             height: 45px;
@@ -55,8 +56,8 @@
             box-shadow: 0 4px 15px rgba(0,0,0,0.1);
         }
         fieldset { border: none; padding: 0; } 
-        h2 { font-size: 1.8em; margin: 0; color: #CC0000; } 
-        h3 { font-size: 1.1em; margin: 15px 0; color: #333; font-weight: normal; } 
+        h2 { font-size: 1.8em; margin: 0; color: #CC0000; font-weight: 700; } 
+        h3 { font-size: 1.1em; margin: 15px 0; color: #333; font-weight: 400; } 
 
         .btn-discord {
             display: inline-block;
@@ -107,7 +108,7 @@
             <div class="content-container">
                 <fieldset>
                     <h2>¡Web en desarrollo! ⌛</h2>
-                    <h3>Esta web está en desarollo y será terminada muy pronto.</h3>
+                    <h3>Esta web está en desarrollo y será terminada muy pronto.</h3>
                     <p style="margin-bottom: 20px;">Mientras tanto, para no perderte nada, únete a nuestro Discord:</p>
                     <a href="https://dsc.gg/theshadowsnet" target="_blank" class="btn-discord">
                         Entrar a Discord
@@ -126,6 +127,4 @@
     </footer>
 
 </body>
-</html> 
-
-
+</html>
