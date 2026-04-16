@@ -3,6 +3,6 @@ Bienvenidos a mi primera página en HTML. Esta es una página que he codificado 
 Podreis ver esta página en https://web.theshadowsmc.xyz (NUEVA WEB)
 
 # Update
-Podeis ver la web de caca en https://prox.theshadows.otros.mateag.com (ya sé hacer páginas, vale xD??)
+Podeis ver la web de caca en https://mateag.com/otros/theshadows/web_antigua_chatgpt (ya sé hacer páginas, vale xD??)
 
 Tienen todo el consentimiento de usar este HTML ya que lo hice con ChatGPT :V
